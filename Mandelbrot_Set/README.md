@@ -16,6 +16,9 @@ This project explores the Mandelbrot set using C++ and parallel computing.
 Using the MSYS2 UCRT64/MinGW64 toolchain:
 ```bash
 g++ -fopenmp -O3 mandelbrot.cpp -o mandelbrot.exe
+```
 
 ## How to plot
+```bash
 gnuplot mandelbrot_plot.plt
+```
