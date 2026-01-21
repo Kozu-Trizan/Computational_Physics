@@ -47,7 +47,7 @@ Here are some snapshots generated using the **Numba Explorer**. These show the s
 
 | Initial View | Deep Zoom (Spiral Valley) | Fractal Branching |
 | :---: | :---: | :---: |
-| ![C++](./mandelbrot_set.png) | ![Python](./mandelbrot_python_static.png) | ![Python-Dynamic](./mandelbrot_python_dynamic.png) |
+| ![C++](./mandelbrot_set.png) | ![Python](./mandelbrot_python_static_plot.png) | ![Python-Dynamic](./mandelbrot_python_dynamic_plot.png) |
 
 > **Note:** To see the high-resolution renders, run the `mandelbrot_numba.py` script and use the interactive zoom.
 
