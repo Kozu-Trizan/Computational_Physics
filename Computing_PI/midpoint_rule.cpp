@@ -8,6 +8,8 @@ using namespace std;
 // integrate from 0 to 1 the function 4/(1+x^2) gives pi
 // Trapezoid rule -> integrate_a_to_b f(x)dx = 1/2 * dx[f(x0) + 2{f(x1)+f(x2)+...}+f(xn)]
 // dx = (b-a)/n, x0 = a, xi = a + i*dx 
+
+//Below used is the midpoint rule
 double func_to_integrate(double x){
     return 4.0/(1.0 + x*x);
 }
